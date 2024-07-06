@@ -21,7 +21,7 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: `السلام عليكم 👋. 
+  before: ` 🔮 السلام عليكم ياسين يرحب بكم 👋. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
@@ -136,10 +136,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+title: 'YASSINE BOT ♥',
+body: " أول بوت واتساب في العالم العربي لياسين 💖",
+thumbnailUrl: 'https://f.uguu.se/JTyrLRyx.jpg',
+sourceUrl: 'https://www.instagram.com/gtx_33_ys?igsh=bG4xZDVmaGp5am03',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
